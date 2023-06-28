@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "String Display Extension",
+  "version": "1.0",
+  "description": "A Chrome extension to display a user-provided string",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
